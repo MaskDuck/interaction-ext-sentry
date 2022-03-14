@@ -1,0 +1,2 @@
+git+https://github.com/goverfl0w/discord-interactions@unstable
+python-dotenv==0.19.1
